@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.pem
+terraform.pem
+__pycache__/
+*.pyc
+.env
